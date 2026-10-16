@@ -1,7 +1,7 @@
 DevOps Assignment 1: GitHub Fundamentals
 
 Student Information
-Name: YOUR NAME
+Name: Ahmad Rehman
 Course: DevOps
 Assignment: 1 — GitHub Free Account Setup
 
