@@ -20,7 +20,3 @@ A commit records changes, while a branch allows separate development without imm
  Tools Used
 GitHub website
 Web browser
- Branch Practice
-
-I created the `assignment-notes` branch to practise making changes separately from the `main` branch.
-This helps me understand how branches support safe development and collaboration.
